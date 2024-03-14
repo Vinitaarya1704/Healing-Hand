@@ -1,4 +1,4 @@
-#Healing-Handling
+#Healing-Hand
 
 Creating a vending machine that dispenses prescription medication based on a QR code scan and payment requires a combination of hardware and software components. Here's a high-level overview of how you could implement such a system:
 
