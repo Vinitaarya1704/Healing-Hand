@@ -24,3 +24,4 @@ Dispensing: Once payment is confirmed, the selected medication is dispensed from
 4.Security Considerations:
 Since this system deals with sensitive information and controlled substances, security is paramount. Implement encryption, secure authentication mechanisms, and robust access controls to protect user data and ensure compliance with regulations.
 Regularly update the software components to patch any security vulnerabilities that may arise.
+ending
